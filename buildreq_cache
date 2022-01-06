@@ -1,0 +1,7 @@
+1.4.1
+pypi(logutils)
+pypi(mako)
+pypi(setuptools)
+pypi(six)
+pypi(webob)
+pypi(webtest)
