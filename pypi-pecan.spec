@@ -4,7 +4,7 @@
 #
 Name     : pypi-pecan
 Version  : 1.4.1
-Release  : 76
+Release  : 77
 URL      : https://files.pythonhosted.org/packages/2a/cc/d7c9c62b7af117d803ed1441191a2297fd8ee0f4a6fbedaefb46c736ba52/pecan-1.4.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/2a/cc/d7c9c62b7af117d803ed1441191a2297fd8ee0f4a6fbedaefb46c736ba52/pecan-1.4.1.tar.gz
 Summary  : A WSGI object-dispatching web framework, designed to be lean and fast, with few dependencies.
@@ -15,9 +15,6 @@ Requires: pypi-pecan-license = %{version}-%{release}
 Requires: pypi-pecan-python = %{version}-%{release}
 Requires: pypi-pecan-python3 = %{version}-%{release}
 BuildRequires : buildreq-distutils3
-Provides: pecan
-Provides: pecan-python
-Provides: pecan-python3
 BuildRequires : pypi(logutils)
 BuildRequires : pypi(mako)
 BuildRequires : pypi(setuptools)
@@ -82,7 +79,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1641467403
+export SOURCE_DATE_EPOCH=1650914988
 export GCC_IGNORE_WERROR=1
 export CFLAGS="$CFLAGS -fno-lto "
 export FCFLAGS="$FFLAGS -fno-lto "
