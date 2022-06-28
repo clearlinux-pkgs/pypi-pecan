@@ -4,7 +4,7 @@
 #
 Name     : pypi-pecan
 Version  : 1.4.1
-Release  : 79
+Release  : 80
 URL      : https://files.pythonhosted.org/packages/2a/cc/d7c9c62b7af117d803ed1441191a2297fd8ee0f4a6fbedaefb46c736ba52/pecan-1.4.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/2a/cc/d7c9c62b7af117d803ed1441191a2297fd8ee0f4a6fbedaefb46c736ba52/pecan-1.4.1.tar.gz
 Summary  : A WSGI object-dispatching web framework, designed to be lean and fast, with few dependencies.
@@ -82,7 +82,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1656389077
+export SOURCE_DATE_EPOCH=1656393603
 export GCC_IGNORE_WERROR=1
 export CFLAGS="$CFLAGS -fno-lto "
 export FCFLAGS="$FFLAGS -fno-lto "
