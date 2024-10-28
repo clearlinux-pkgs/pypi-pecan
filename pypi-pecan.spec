@@ -5,7 +5,7 @@
 #
 Name     : pypi-pecan
 Version  : 1.5.1
-Release  : 90
+Release  : 91
 URL      : https://files.pythonhosted.org/packages/11/cb/a0e1972713b25029dd43554da94fdd4a280faa6395218f8f400941e2779b/pecan-1.5.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/11/cb/a0e1972713b25029dd43554da94fdd4a280faa6395218f8f400941e2779b/pecan-1.5.1.tar.gz
 Summary  : A WSGI object-dispatching web framework, designed to be lean and fast, with few dependencies.
