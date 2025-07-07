@@ -1,5 +1,5 @@
 PKG_NAME := pypi-pecan
-URL = https://files.pythonhosted.org/packages/76/c6/e5f3cc7afef5951e03b287c58dc2f8417242f2ffad423b62db77099e9b52/pecan-1.6.0.tar.gz
+URL = https://files.pythonhosted.org/packages/2b/57/0eb9798962c4bf98819efca45293fb3d481ba748f1e83af165aa342cf2af/pecan-1.7.0.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
